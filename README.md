@@ -24,7 +24,42 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,php,mysql,js,tailwind,html,css,git,docker,figma,linux" />
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" />
+  </a>
 </p>
 
 ---
