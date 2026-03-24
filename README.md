@@ -15,7 +15,7 @@
 
 ![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-![snake gif](https://github.com/rewinjaysubibi/rewinjaysubibi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/rewinjaysubibi/rewinjaysubibi/output/github-contribution-grid-snake.svg)
 
 ### 🌱 I’m currently learning
 
