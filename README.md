@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Hi+there+👋;I'm+Carl+the+Developer;Laravel+&+React+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Hi+there+👋;I'm+Rewinjay+Subibi;Laravel+&+React+Enthusiast)
 
 ### 🔧 Tech Stack
 
@@ -9,13 +9,13 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CAACARL&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rewinjaysubibi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CAACARL&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rewinjaysubibi&layout=compact&theme=radical)
 
 ![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-![snake gif](https://github.com/CAACARL/CAACARL/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rewinjaysubibi/rewinjaysubibi/blob/output/github-contribution-grid-snake.svg)
 
 ### 🌱 I’m currently learning
 
@@ -26,6 +26,8 @@
 
 - Open-source web projects
 
-📫 How to reach me
-Email: subibirewinjay@gmail.com
-facebook: rewin jay subibi
+### 📫 How to reach me
+
+- Email: rewinjay@gmail.com
+- Backup Email: subibirewinjay@gmail.com
+- Facebook: Rewin Jay Subibi
