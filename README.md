@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer | Laravel & React Enthusiast
+  💻 
 </h3>
 
 <p align="center">
