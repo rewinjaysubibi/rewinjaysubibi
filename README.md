@@ -81,8 +81,8 @@
 ## 🐍 Python Snake Mode
 
 <p align="center">
-  <a href="https://giphy.com/explore/python-snake">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+  <a href="https://giphy.com/explore/python-snake" target="_blank">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW43bmRrdnd4dWtwaXJvYXVuYW00a2xiYzZtdGJuNW1pazBxajR4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4wk7tCPmRCyfpgKU6e/giphy.gif" width="400"/>
   </a>
 </p>
 
