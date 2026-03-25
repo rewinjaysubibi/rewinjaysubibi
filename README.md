@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://beeg.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PLATFORM_NAME-BACKGROUND_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=LOGO_COLOR"/>
+  <img src="https://img.shields.io/badge/ClICK-ME-BACKGROUND_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=LOGO_COLOR"/>
 </a>
   <a href="https://github.com/rewinjaysubibi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
