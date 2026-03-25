@@ -76,6 +76,11 @@
 
 ---
 
+## 💻 Code Mode
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd2dno3a3dlYnlxMDM3cGlrYnh2MWI3YWxoejg1eWhkcjhlcXl6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="400"/>
+</p>
 ---
 
 ## 🐍 Python Subibi Mode
@@ -116,7 +121,7 @@
   <a href="https://www.facebook.com/jay.subibi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://commons.wikimedia.org/wiki/File:Looking_up_at_a_standing_naked_woman.jpg/" target="_blank">
+  <a href="https://beeg.com/-0230952242286958/" target="_blank">
   <img src="https://img.shields.io/badge/ClICK ME-BACKGROUND_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=LOGO_COLOR"/>
 </a>
   <a href="https://github.com/rewinjaysubibi">
